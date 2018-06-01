@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "CRM_Dimension", "CRM_Dimension\CRM_Dimension.dtproj", "{2624B991-2148-4006-9577-6AC3775CEEC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2624B991-2148-4006-9577-6AC3775CEEC1}.Development|Default.ActiveCfg = Development
+		{2624B991-2148-4006-9577-6AC3775CEEC1}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
